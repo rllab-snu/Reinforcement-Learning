@@ -1,6 +1,9 @@
 # Reinforcement-Learning
 List of our studies related to reinforcement learning
 
+## Adaptive Soft Actor Critic
+Jae In Kim, Mineui Hong, Kyungjae Lee, DongWook Kim, Yong-Lae Park, and Songhwai Oh, "Learning to Walk A Tripod Mobile Robot Using Nonlinear Soft Vibration Actuators with Entropy Adaptive Reinforcement Learning,"  IEEE International Conference on Robotics and Automation (ICRA), May 2020. (RA-L option) [[paper](https://ieeexplore.ieee.org/document/8978537)][[code](https://github.com/rllab-snu/Adaptive-Soft-Actor-Critic)]
+
 ## Soft Action Particle Method
 Minjae Kang*, Kyungjae Lee*, and Songhwai Oh, "Soft Action Particle Deep Reinforcement Learning for a Continuous Action Space," *in Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Nov. 2019.
 [[paper](http://rllab.snu.ac.kr/publications/papers/2019_iros_sapdrl.pdf)] [[code](https://github.com/rllab-snu/soft_action_particle_method)]
