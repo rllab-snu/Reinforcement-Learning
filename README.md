@@ -4,6 +4,9 @@ List of our studies related to reinforcement learning
 ## Efficient Off-Policy Safe Reinforcement Learning Using Trust Region Conditional Value at Risk
 Dohyeong Kim and Songhwai Oh, "Efficient Off-Policy Safe Reinforcement Learning Using Trust Region Conditional Value at Risk," IEEE Robotics and Automation Letters, vol. 7, no. 3, pp. 7644-7651, Jul. 2022. [[paper](https://ieeexplore.ieee.org/document/9802647)][[code](https://github.com/rllab-snu/Off-Policy-TRC)]
 
+## TRC: Trust Region Conditional Value at Risk for Safe Reinforcement Learning
+Dohyeong Kim and Songhwai Oh, “TRC: Trust region conditional value at risk for safe reinforcement learning,” IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 2621–2628, Apr. 2022. [[paper](https://ieeexplore.ieee.org/document/9677982)][[code](https://github.com/rllab-snu/Trust-Region-CVaR)]
+
 ## Dynamics-Aware-Metric-Embedding
 Mineui Hong, Kyungjae Lee, Minjae Kang, Wonsuhk Jung, and Songhwai Oh,`Dynamics-Aware-Metric-Embedding: Metric Learning in a Latent Space for Visual Planning,' IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 3388-3395, Apr. 2022. [[paper](https://ieeexplore.ieee.org/document/9696367)][[code](https://github.com/rllab-snu/Dynamics-Aware-Metric-Embedding)]
 
